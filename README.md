@@ -1,2 +1,2 @@
-# DSCE-DSA-Lab-A1
+# DSCE-DSA-Lab-A1-1DS25AI003
 This is the repository for my College, And I'll upload all the works done in lab as well as other works here.
